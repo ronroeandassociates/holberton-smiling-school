@@ -157,3 +157,10 @@ img.circle-thumb-small {
 .bg-sectionfree {
   background-color: #071629;
 }
+
+/*** footer
+    ------------------------------------ ***/
+
+.social > svg {
+  fill: white;
+}
