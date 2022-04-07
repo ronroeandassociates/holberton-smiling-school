@@ -117,3 +117,10 @@ header a:hover {
     font-size: 1.1rem;
   }
 }
+
+/*** Carousel of quotes
+    -------------------------------------- ***/
+
+.bg-violet {
+  background-color: #c271ff !important;
+}
