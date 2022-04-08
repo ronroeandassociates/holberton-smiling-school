@@ -188,3 +188,16 @@ img.circle-thumb-small {
   font-family: "Coiny" !important;
   font-weight: 400;
 }
+
+/*** filters section
+    ------------------------------------- ***/
+
+.search-icon {
+  font-family: "holberton_school-icon";
+  font-size: 15px;
+}
+
+.search-filter {
+  background-color: #d195ff;
+  border-radius: 3px;
+}
