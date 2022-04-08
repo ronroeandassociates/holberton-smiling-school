@@ -168,8 +168,23 @@ img.circle-thumb-small {
 /*** header/hero piece
     ------------------------------------- ***/
 
-.princing {
+.pricing {
   background-image: url("images/pic_2.jpg") !important;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+/*** header/hero piece
+    -------------------------------------- ***/
+
+.courses {
+  background-image: url("images/pic_3.jpg") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tcourse {
+  font-size: 32px;
+  font-family: "Coiny" !important;
+  font-weight: 400;
 }
