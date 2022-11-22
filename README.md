@@ -2,9 +2,9 @@
 
 # 0x01. Implement a design with bootstrap
 
-In this project, you will implement 3 web pages with Bootstrap. You will use all HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges that you learned previously.
+In this project, I implemented 3 web pages with Bootstrap. I used all HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges that I had learned previously.
 
-You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have fully functional web pages that look the same as the designer file
+- the objective is simple: Have fully functional web pages that look the same as the designer file
 
 ## Author
 
@@ -23,5 +23,5 @@ Thanks to the FullStack Team for the opportunity to learn and grow together as a
 [Rocko Gilbert](https://www.linkedin.com/in/rocko2122/),
 [Lyndon Pettersson](https://www.linkedin.com/in/lyndonpettersson/),
 [Tofer Sokolosky](https://www.linkedin.com/in/tofer-sokolosky/), and
-[Tres Serio](https://www.linkedin.com/in/frank-serio/)
+[Tres Serio](https://www.linkedin.com/in/frank-serio/);
 It was great bouncing ideas back and forth as we worked together to grow and learn.
